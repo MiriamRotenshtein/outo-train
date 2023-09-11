@@ -18,9 +18,9 @@
 
 - Click Save and Display
 
-![image](src/images/sad.png)
-
 - Click Add Question
+
+![image](src/images/sad.png)
 
 ![image](src/images/add_question.png)
 
